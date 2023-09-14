@@ -52,7 +52,7 @@ form .form-control:disabled,
   background-color: $gray-lightest !important;
 }
 
-#auth-form {
+.auth-form {
   .auth-form-block {
     margin: 12px;
   }
@@ -86,7 +86,7 @@ input.password_strength {
   }
 }
 
-#auth-form {
+.auth-form {
   flex-direction: row;
   .form-group {
     flex-direction: column;
